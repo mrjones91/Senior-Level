@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Intro
 * [Preface](Intro/preface.md)
 * [Author](Intro/author.md)
 * [About the Book](Intro/About/about_the_book.md)
@@ -8,5 +9,4 @@
 * [Getting Started](Intro/Getting Started/gettingstarted.md)
    * [What is "Senior Level"?](Intro/Getting Started/what_is_senior_level.md)
    * [So What is a Developer?](Intro/Getting Started/so_what_is_a_developer.md)
-* Intro
 
