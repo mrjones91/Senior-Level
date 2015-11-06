@@ -7,6 +7,6 @@
    * [Who is this Book for?](Intro/About/who_is_this_book_for.md)
 * [Getting Started](Intro/Getting Started/gettingstarted.md)
    * [What is "Senior Level"?](Intro/Getting Started/what_is_senior_level.md)
-   * So What is a Developer?
+   * [So What is a Developer?](Intro/Getting Started/so_what_is_a_developer.md)
 * Intro
 
