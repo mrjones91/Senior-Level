@@ -6,6 +6,6 @@
 * [About the Book](Intro/About/about_the_book.md)
    * [Who is this Book for?](Intro/About/who_is_this_book_for.md)
 * [Getting Started](Intro/Getting Started/gettingstarted.md)
-   * What is "Senior Level"?
+   * [What is "Senior Level"?](Intro/Getting Started/what_is_senior_level.md)
 * Intro
 
