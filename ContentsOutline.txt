@@ -7,6 +7,9 @@ About the Book
 		What is a Developer?
 	What the book is
 	What the book isn't
+Getting Started
+    What is "Senior Level"?
+    So What is a Developer?
 -Section 1
 So you want to code
 Expectations
@@ -17,5 +20,11 @@ Soft Skills
 
 -Section 3
 Technical Skills
+
+-Appendix
+Tools
+    Software and Languages
+    Hardware
+Learning Resources
 
 
