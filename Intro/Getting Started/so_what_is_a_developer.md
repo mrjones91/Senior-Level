@@ -1,2 +1,3 @@
 # So What is a Developer?
 
+A Developer, again my definition, is someone who writes code and/or makes things to solve a problem. To begin to become a developer, one must merely start SOMEWHERE learning how to create software. Even an intermediate program with a pseudo-programming interface is enough to get you started. Great programs that are perfect stepping stones for those either fearful, uncomfortable, or uniterested in tackling walls of text include: Scratch, Multimedia Fusion: Game Developer, Lego Mindstorms and a host of other tools to start. See the Appendix for my library of resources to get you started
