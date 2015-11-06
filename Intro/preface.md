@@ -1,2 +1,3 @@
 # Preface
 
+All topics and advice contained in this book are sourced from my own knowledge, life experience, and wisdom gleamed from observations, conversations and research with peers, padawans and superiors. Feel free to let me, and the readership know of any additional cases left out, places where my experience fall short, and even just relay your own experience in the tech world. The objective of this book is to tie together a cohesive plan and definition of how to be proficient in our field. I have found success and aim to help others achieve the same and more. With all that said, I hope you enjoy the book and learn a thing or two.  
