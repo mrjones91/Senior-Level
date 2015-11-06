@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
 * Intro
+* [Introduction](README.md)
 * [Preface](Intro/preface.md)
 * [Author](Intro/author.md)
 * [About the Book](Intro/About/about_the_book.md)
