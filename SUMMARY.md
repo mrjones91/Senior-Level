@@ -5,7 +5,6 @@
 * Author
 * About the Book
    * Who is this Book for?
-   * sf
 * Getting Started
 * test
    * test1
