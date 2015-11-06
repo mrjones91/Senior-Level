@@ -1,0 +1,33 @@
+Developer Tools, Tips and Tricks
+	Debugging in IE F12 Developer Tools
+	How to Take Over Large Strange Code Bases (And Debug Like a Boss)
+	Designing Pages in the Browser (CSS Dev Tools Editing)
+	
+Visual Studio Git
+
+The Wonderful World of Javascript
+	Programming Fundamentals in Javascript
+	DOM Manipulation
+	jQuery and the use of JS libraries to Speed up Development (DataTables, HandsOn, etc.)
+	JSON and Web API
+
+CSS Frameworks, Template and Plugins
+	Commonalities of Design Frameworks (Grids and Page Elements)
+	jQueryUI
+	Bootsrap
+	Material Design
+
+Front-End Frameworks (MVC EVERYWHERE!)
+	Angular
+	Ember
+	Meteor (for the adventurous)
+
+.NET MVC
+	Web API and SOA
+	Model, View, Controller and You
+	Entity Framework
+	Creating
+
+NodeJS Adjacent (Technologies built with or used with Node)
+	Node
+	Meteor

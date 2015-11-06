@@ -1,0 +1,21 @@
+Author 
+Preface
+About the Book
+
+	Who this book is for?
+		What is "Senior Level"?
+		What is a Developer?
+	What the book is
+	What the book isn't
+-Section 1
+So you want to code
+Expectations
+Reality
+
+-Section 2
+Soft Skills
+
+-Section 3
+Technical Skills
+
+

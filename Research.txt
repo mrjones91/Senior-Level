@@ -1,0 +1,84 @@
+1 - http://programmers.stackexchange.com/questions/25564/when-should-you-call-yourself-a-senior-developer
+	Ability to mentor other developers 
+	{
+		lead others or others look to you for guidance
+		Self manage projects
+		Handle full SDLC
+	} - Darknight http://programmers.stackexchange.com/users/8083
+	Lots of time/code written for hardened skills
+	{
+		PRACTICE PRACTICE PRACTICE!
+		Purely skill/effort based
+		Mozart
+		Beatles
+		Bill Gates
+		Year break down for estimates
+		Luminary
+	} - Chuck Conqay http://programmers.stackexchange.com/users/4898
+	When others call you such
+	just get a job with "Senior" in the title
+	It means nothing, if you can do the job, you can do the job - BE THE LEAF
+
+2 - https://www.quora.com/How-can-I-become-a-senior-developer-what-do-i-need-to-know-and-be
+	{
+		
+•Junior developer - a well-defined simple feature, bugs that have straight-forward fixes, basic changes to functionality
+•Mid-range developer - features that require work on all parts of the stack, including data design, and have scaling/performance considerations.
+•Senior developer - major projects, like "redesign our search code to perform better.  you may want to consider moving to a search appliance like SOLR, rather than the relational database code we're using now."
+
+	} - Jon Moter https://www.quora.com/How-can-I-become-a-senior-developer-what-do-i-need-to-know-and-be/answer/Jon-Moter
+
+3 - https://www.quora.com/How-can-I-go-from-Jr-to-Sr-developer-in-a-year
+4 - http://blog.aftercollege.com/went-total-beginner-senior-web-developer/
+	Free pdf/E-book of blog content/interviews http://blog.aftercollege.com/wp-content/uploads/2014/10/AC_FEDevelopers-ebook-6.pdf
+	also http://blog.aftercollege.com/e-books/
+
+	Specifically Senior Front-End Developer
+		Transitioned after majoring/starting working career in Advertising
+	3 Years in Front end position at current Ad employer before transitioning to Junior Dev Job. 
+	Work up to Senior Front-End Developer thru good work performance, passion and commitment to job/progressing/advancing skills
+	
+	It doesn't take a lifetime to build yourself into a higher level position, with commitment and passion 
+(all internally sourced and truly aligning with your interests/desires/soul) 
+then with the time and energy spent towards DOING the craft, you will master it.
+
+
+5 - http://theseniorsoftwareengineer.com/
+
+	Slight competitor - ruby dev
+	$25 for PDF/MOBI/ePub
+	$19.99 for Print
+	Very Soft Skills oriented around being a team leader, architecting technology structures for the business, writing documentation/API, etc
+
+
+6 - http://www.javacodegeeks.com/2014/07/step-by-step-path-to-becoming-a-great-software-developer.html
+
+	Almost a step by step of my path
+		Step 1: Pick one language, learn the basics
+		Step 2: Build something small
+		Step 3: Learn a framework
+		Step 4: Learn a database technology
+		Step 5: Get a job supporting an existing system
+		Step 6: Learn structural best practices
+		Step 7: Learn a second language
+		Step 8: Build something substantial
+		Step 9: Get a job creating a new system
+		Step 10: Learn design best practices
+		Step 11: Keep going
+		
+	
+7 - http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/
+	Emotional/Self Awareness based actions per the tiers of Beginner, Intermediate and Senior
+	B - Handles simple tasks
+	I - Handles tasks "the right way". May over convolute things to be best
+	S - Simplicity. "Best Solution" vs "best code". Overall development (team, business), leads, plans
+
+8 - http://simpleprogrammer.com/2012/08/12/the-myth-of-the-super-programmer/
+
+	All boils down to problem solving. You may be "super" but what is that really?
+Programming is writing code and creating software. To be "the best" will be relative to you, but over the course of this book and any subsequent interactions with my mentality, making software will be the ultimate end goal. Whether you write the whole system by hand, is frankly, irrelevant unless it required to meet the goal at hand and no other existing solution solve your problems.
+
+
+9 - http://howtoprogrambetter.com/10-steps-to-become-a-senior-software-engineer/
+
+		

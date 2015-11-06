@@ -1,0 +1,66 @@
+Author
+
+	A young blerd (Black Nerd) from Tennessee, now roaming the world as Software Developer, saving the world, 1 line of code at a time.
+
+Daniel has been a developer for over 5 years, working in C# building .NET MVC applications. This is a story of his journey from nerd to graduate to professional and helpful tips and tricks for you to help you Become Senior.
+
+Preface
+
+	All topics and advice contained in this book are sourced from my own knowledge, life experience, and wisdom gleamed from observations, conversations and research with peers, padawans and superiors. Feel free to let me, and the readership know of any additional cases left out, places where my experience fall short, and even just relay your own experience in the tech world. The objective of this book is to tie together a cohesive plan and definition of how to be proficient in our field. I have found success and aim to help others achieve the same and more. With all that said, I hope you enjoy the book and learn a thing or two. 
+
+About the Book
+Who this book is for?
+
+	This is intended for youngsters, or career transitioners, who find themselves outside of the technitopias of the world and may be in need of assistance/mentorship/ideas or just general guidance with the possibilities of where their passion for tech could lead them and how to make a for plan their own conquest of programming and the workforce t; Those switching careers with the same desire and a knack for being "tech-savvy; any curious nerds who want to make sure they're up to snuff; and of course trolls.
+
+What this book is
+
+	A collection of knowledge and wisdom for those transitioning into or already climbing the ladder of a programming centric career, namely a Web Developer.
+
+What it isn't
+	
+	A tutorial book. Resources for finding tutorials to master your respective language and stack will be provided, but this is in no way meant to teach you HOW to build the cool things you need and want; merely what to do and how to steer your career while you're building cool things.
+
+
+
+
+	What is "Senior Level"?
+
+		Senior Level developers, as I will be discussing them, are devs with a breadth of experience. Knowing a specific stack from front to back and the possibilities and your own shortcomings are key factors that will help you in obtain senior level skills. It is key to be a specialist. To be a specialist, a good one at least, you'll need to be a good developer in general.
+
+	So what is a Developer?
+		
+		A Developer, again my definition, is someone who writes code and/or makes things to solve a problem. To begin to become a developer, one must merely start SOMEWHERE learning how to create software. Even an intermediate program with a pseudo-programming interface is enough to get you started. Great programs that are perfect stepping stones for those either fearful, uncomfortable, or uniterested in tackling walls of text include: Scratch, Multimedia Fusion: Game Developer, Lego Mindstorms and a host of other tools to start. See the Appendix for my library of resources to get you started
+
+
+-Section 1
+So you want to code
+Expectations
+Reality
+
+
+
+-Section 2
+Soft Skills
+	Organized
+	Decisiveness
+	Listening
+	Patience
+	Thoughtful
+
+
+-Section 3
+Technical Skills
+	Language
+	Framework
+	Best Practices
+	Experience
+
+-Appendix
+Tools 
+	Software and Languages
+	Hardware
+Learning Resources
+
+
+
