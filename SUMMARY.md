@@ -9,6 +9,6 @@
 * [Getting Started](Intro/Getting Started/gettingstarted.md)
    * [What is "Senior Level"?](Intro/Getting Started/what_is_senior_level.md)
    * [So What is a Developer?](Intro/Getting Started/so_what_is_a_developer.md)
-* [Section 1] (Section 1/section1.md)
-   * [So You Want to Code (For a Living)] (Section 1/so_you_want_to_code.md)
+* [Section 1](Section 1/section1.md)
+   * [So You Want to Code (For a Living)](Section 1/so_you_want_to_code.md)
 
