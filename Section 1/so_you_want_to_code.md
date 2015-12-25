@@ -12,7 +12,9 @@ Becoming an expert, knowing everything about everything, is impossible. Again, n
 #### Debugging
 Code never works as expected. Things will break along the way, whether you're an expert or novice. That's life, that's computer science. Thus code is life [T-Shirt Link Here]
 #### Team Dynamics
-Teams often have their OWN way of doing things. Sometimes even in spite of company policies to do otherwise. Things like Unit Testing, Code Reviews, and Project Documentation are all great concepts and important for Accountability and cohesiveness as a project or business gets larger than 1-3 person dev teams. However, the majority of businesses and the software that they need to function daily will not NEED these things in the formal way that you may have learned in college.
+Teams often have their OWN way of doing things. These changes range from interpersonal behavior and office customs to their software development practices. Sometimes even in spite of company policies to do otherwise. Things like Unit Testing, Code Reviews, and Project Documentation are all great concepts and important for Accountability and cohesiveness as a project or business gets larger than 1-3 person dev teams. However, the majority of businesses and the software that they need to function daily will claim to not need these things in the formal way that you may have learned in college. 
+
+...
 
 Unit Tests: Code that is written to automate the process of testing the code
 Code Review: Periodical checking of the writing of code to adhere to coding standards
